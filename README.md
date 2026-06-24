@@ -106,18 +106,11 @@ The following charts were produced in Python using matplotlib and seaborn:
 ## 🖥️ Dashboard Preview
 
 ![Online Retail Sales Dashboard](online%20sales%20dashboard.png)
+The Power BI dashboard currently covers:
 
-The Power BI dashboard is structured across 3 pages:
-
-**Page 1 — Revenue Overview**
-KPI cards, Monthly Revenue line chart with average line, Waterfall chart and Decomposition tree
-
-**Page 2 — Product & Country Analysis**
-Filled map, Treemap, Top products by revenue and quantity
-
-**Page 3 — Time & Operations**
-Matrix heatmap (Day vs Hour), Orders by day and hour, Guest vs Registered breakdown
-
+Page 1 — Revenue Overview
+KPI cards, Monthly Revenue line chart with average line, 
+Waterfall chart and Decomposition tree
 ---
 
 ## ▶️ How to Run
